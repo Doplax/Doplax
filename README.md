@@ -12,4 +12,4 @@
 - 🔭 I’m actually working as a web developer in [Tecsolda](https://tecsolda.com/)
 - 🌱 Currently learning **`Js`** and **`Python`**
 
-### **Connect with me:**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doplax)](https://github.com/anuraghazra/github-readme-stats)
