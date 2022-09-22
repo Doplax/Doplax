@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://www.kibrispdr.org/data/1792/pixel-gif-wallpaper-57.gif">
+<img align="center" alt="Coding" width="100%" src="https://github.com/Doplax/Doplax/blob/main/img/paisaje_cabezera.gif?raw=true">
 
 # Description
 
