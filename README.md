@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/047/080/829/original/hayder-baker-pixel-study.gif?1646716831">
+<img align="center" alt="Coding" width="100%" src="https://cdnb.artstation.com/p/assets/images/images/047/080/829/original/hayder-baker-pixel-study.gif?1646716831">
 
 # Description
 
