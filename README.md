@@ -14,7 +14,7 @@
   </video>
 </div>
 
-<iframe src="./html/projects.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="100px"></iframe>
+<iframe src="./html/projects.html" frameborder="0" width="100px"></iframe>
 
 
 
