@@ -1,4 +1,4 @@
-<!--<img align="center" alt="header_img" width="100%" src="https://github.com/Doplax/Doplax/blob/main/img/paisaje_cabezera.gif?raw=true">-->
+<img align="center" alt="header_img" width="100%" src="https://github.com/Doplax/Doplax/blob/main/img/paisaje_cabezera.gif?raw=true">
 
 # Description
 
@@ -6,16 +6,6 @@
 
 
 ### **A passionate web developer from Spain**
-
-<div class="video-container" width="10px">
-  <video autoplay loop muted >
-    <source src="./img/background-video.mp4" type="video/mp4">
-    Tu navegador no soporta la etiqueta video.
-  </video>
-</div>
-
-<iframe src="./html/projects.html" frameborder="0" width="100px"></iframe>
-
 
 
 - 🔭 I’m actually working as a web developer in [Tecsolda](https://tecsolda.com/)
