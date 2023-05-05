@@ -108,6 +108,6 @@
     </a>
 </div>
 
-> 🧠 If you can think it, you can program it!!
+> 🧠 Programming isn't about what you know; it's about what you can figure out.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doplax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
