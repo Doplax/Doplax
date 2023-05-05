@@ -14,16 +14,22 @@
 ### Front-end:
 <div> 
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/html-logo.png" alt="html5" width="40" height="40"/> 
+        <img src="/img/html-logo.png" alt="html5" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/css-logo.png" alt="css3" width="40" height="40"/> 
+        <img src="/img/css-logo.png" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+        <img src="/img/js-logo.png" alt="Typescript" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
         <img src="./img/typescript-logo.png" alt="Typescript" width="40" height="40"/> 
     </a>  
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="/img/tailwind-log.png" alt="tailwind" width="40" height="40"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/react-icon.png" alt="react" width="40" height="40"/> 
@@ -49,7 +55,7 @@
     </a> 
 </div>
 
-### Database:
+<!--### Database:
 <div>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/mysql-logo.png" alt="mysql" width="40" height="40"/> 
@@ -61,13 +67,14 @@
 
 ### Version Control:
 <div>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/git-logo.png" alt="git" width="40" height="40"/> 
-    </a>
-</div>
+
+</div>-->
 
 ### Other Tools:
 <div>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/git-logo.png" alt="git" width="40" height="40"/> 
+    </a>
     <a href="https://www.notion.so" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/notion-logo.png" alt="notion" width="40" height="40"/> 
     </a>
@@ -99,9 +106,6 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/photoshop-logo.png" alt="photoshop" width="40" height="40"/> 
     </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/illustrator-logo.png" alt="illustrator" width="40" height="40"/> 
-    </a> 
 </div>
 
 > 🧠 If you can think it, you can program it!!
