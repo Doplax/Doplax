@@ -7,7 +7,7 @@
 ### **A passionate web developer from Spain**
 
 - 🔭 I’m currently working as a web developer at [Tecsolda](https://tecsolda.com/)
-- 🌱 Currently learning **`Js`** and **`Python`**
+- 🌱 Currently learning **`Next.js`** and **`React.js`**
 
 ## Languages and Tools:
 
@@ -19,12 +19,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/css-logo.png" alt="css3" width="40" height="40"/> 
     </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+        <img src="./img/typescript-logo.png" alt="Typescript" width="40" height="40"/> 
+    </a>  
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/js-logo.png" alt="javascript" width="40" height="40"/> 
-    </a>   
+    </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/react-icon.png" alt="react" width="40" height="40"/> 
     </a>
