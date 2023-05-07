@@ -81,9 +81,6 @@
     <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/wooCommerce-logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
-    <a href="https://miro.com/es/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/miro.png" alt="WooCommerce" width="40" height="40"/> 
-    </a>
 </div>
 
 
