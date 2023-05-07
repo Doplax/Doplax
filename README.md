@@ -79,35 +79,12 @@
         <img src="https://github.com/Doplax/Doplax/blob/main/img/notion-logo.png" alt="notion" width="40" height="40"/> 
     </a>
     <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/wordpress_logo.png" alt="wordpress" width="40" height="40"/> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/wooCommerce-logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
     <a href="https://miro.com/es/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/miro.png" alt="miro" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/excel.png" alt="excel" width="40" height="40"/> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/miro.png" alt="WooCommerce" width="40" height="40"/> 
     </a>
 </div>
 
-## Video and Images:
-
-### Videos:
-<div>
-    <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/video-bg.mp4" alt="premiere-pro" width="40" height="40"/> 
-    </a>
-    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/background-video.mp4" alt="after-effects" width="40" height="40"/> 
-    </a>
-</div>
-
-### Images:
-<div>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/photoshop-logo.png" alt="photoshop" width="40" height="40"/> 
-    </a>
-</div>
-
-> 🧠 Programming isn't about what you know; it's about what you can figure out.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doplax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
