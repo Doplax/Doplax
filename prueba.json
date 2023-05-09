@@ -1,0 +1,17 @@
+{
+    "name": "Juan",
+    "surname": "Pérez",
+    "age": 28,
+    "email": "juan.perez@example.com",
+    "address": {
+        "street": "Calle 123",
+        "city": "Ciudad de México",
+        "zip": "01010",
+        "country": "México"
+    },
+    "hobbies": [
+        "correr",
+        "leer",
+        "tocar guitarra"
+    ]
+}
