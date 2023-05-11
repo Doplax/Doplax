@@ -53,22 +53,11 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/python-logo.png" alt="python" width="40" height="40"/> 
     </a> 
-</div>
-
-<!--### Database:
-<div>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/mysql-logo.png" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/mongodb-logo.png" alt="mongodb" width="40" height="40"/> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/mongodb-logo.png" alt="MongoDB" width="40" height="40"/> 
     </a> 
 </div>
 
-### Version Control:
-<div>
-
-</div>-->
 
 ### Other Tools:
 <div>
@@ -79,7 +68,10 @@
         <img src="https://github.com/Doplax/Doplax/blob/main/img/notion-logo.png" alt="notion" width="40" height="40"/> 
     </a>
     <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/wooCommerce-logo.png" alt="wordpress" width="40" height="40"/> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/wordpress-logo.png" alt="wordpress" width="40" height="40"/> 
+    </a>
+    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/wooCommerce-logo.png" alt="WooCommerce" width="40" height="40"/> 
     </a>
 </div>
 
