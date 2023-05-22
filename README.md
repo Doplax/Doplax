@@ -62,7 +62,7 @@
 ### Other Tools:
 <div>
    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/GraphQL.png" alt="git" width="40" height="40"/> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/GraphQL.png" alt="GraphQL" width="40" height="40"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/git-logo.png" alt="git" width="40" height="40"/> 
