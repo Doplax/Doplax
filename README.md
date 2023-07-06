@@ -4,10 +4,10 @@
 
 # **👋 Hi, I'm Pol**
 
-### **A passionate web developer from Spain**
+### **A passionate junior Full-Stack from Spain**
 
 - 🔭 I’m currently working as a web developer at [Tecsolda](https://tecsolda.com/)
-- 🌱 Currently learning **`Next.js`** and **`React.js`**
+- 🌱 Currently learning **`Next.js`** 
 
 ## Languages and Tools:
 
@@ -20,10 +20,13 @@
         <img src="/img/css-logo.png" alt="css3" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-        <img src="/img/js-logo.png" alt="Typescript" width="40" height="40"/> 
-    </a> 
+        <img src="/img/js-logo.png" alt="Javascript" width="40" height="40"/> 
+    </a>
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
         <img src="./img/typescript-logo.png" alt="Typescript" width="40" height="40"/> 
+    </a>  
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+        <img src="./img/angular.svg" alt="Typescript" width="40" height="40"/> 
     </a>  
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> 
@@ -61,9 +64,6 @@
 
 ### Other Tools:
 <div>
-   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/GraphQL.png" alt="GraphQL" width="40" height="40"/> 
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/git-logo.png" alt="git" width="40" height="40"/> 
     </a>
@@ -73,9 +73,10 @@
     <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/wordpress-logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
-    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/wooCommerce-logo.png" alt="WooCommerce" width="40" height="40"/> 
+    <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/Doplax/Doplax/blob/main/img/wordpress-logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
+
 </div>
 
 
