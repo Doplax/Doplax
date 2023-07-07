@@ -7,7 +7,7 @@
 ### **A passionate junior Full-Stack from Spain**
 
 - 🔭 I’m currently working as a web developer at [Tecsolda](https://tecsolda.com/)
-- 🌱 Currently learning **`Next.js`** 
+- 🏆 Main Framework **`Angular`** 
 
 ## Languages and Tools:
 
