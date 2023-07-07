@@ -47,9 +47,6 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/node-logo.png" alt="nodejs" width="40" height="40"/> 
     </a> 
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/npm-logo.png" alt="npm" width="40" height="40"/> 
-    </a>
     <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/linux-logo.png" alt="linux" width="40" height="40"/> 
     </a>
@@ -73,10 +70,6 @@
     <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/Doplax/Doplax/blob/main/img/wordpress-logo.png" alt="wordpress" width="40" height="40"/> 
     </a>
-    <a href="https://es.wordpress.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Doplax/Doplax/blob/main/img/wordpress-logo.png" alt="wordpress" width="40" height="40"/> 
-    </a>
-
 </div>
 
 
