@@ -4,7 +4,7 @@
 
 # **👋 Hi, I'm Pol**
 
-### **A passionate junior Full-Stack from Spain**
+### **A passionate Full-Stack from Spain**
 
 - 🔭 I’m currently working as a Front-End at [VASS](https://vasscompany.com/)
 
