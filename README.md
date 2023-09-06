@@ -6,7 +6,7 @@
 
 ### **A passionate junior Full-Stack from Spain**
 
-- 🔭 I’m currently working as a web developer at [Tecsolda](https://tecsolda.com/)
+- 🔭 I’m currently working as a Front-End at [VASS](https://vasscompany.com/)
 
 ## Languages and Tools:
 
