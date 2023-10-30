@@ -37,7 +37,7 @@
         <img src="/assets/svg/tech/react.svg" alt="react" width="40" height="40"/> 
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/nest-js.svg" alt="next-js" width="40" height="40"/> 
+        <img src="/assets/svg/tech/next-js.svg" alt="next-js" width="40" height="40"/> 
     </a>
 </div>
 
