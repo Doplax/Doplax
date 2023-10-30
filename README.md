@@ -1,6 +1,6 @@
-<img align="center" alt="header_img" width="100%" src="https://github.com/Doplax/Doplax/blob/main/img/paisaje_cabezera.gif?raw=true">
+<img alt="header_img" width="100%" src="https://github.com/Doplax/Doplax/blob/main/img/paisaje_cabezera.gif?raw=true">
 
-# Description
+<h1 style="color: red;" >Description</h1>
 
 # **👋 Hi, I'm Pol**
 
