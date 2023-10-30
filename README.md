@@ -13,7 +13,7 @@
 ### Front-end:
 <div> 
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="/img/html-logo.png" alt="html5" width="40" height="40"/> 
+        <img src="/assets/svg/tech/html.svg" alt="html5" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="/img/css-logo.png" alt="css3" width="40" height="40"/> 
