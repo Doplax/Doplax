@@ -4,9 +4,9 @@
 
 # **👋 Hi, I'm Pol**
 
-### **A passionate Full-Stack from Spain**
+### **A Full-Stack Specialized in Angular and .NET**
 
-- 🔭 I’m currently working as a Front-End at [VASS](https://vasscompany.com/)
+- 🔭 I’m currently working in AddingPlus
 
 ## Languages and Tools:
 
