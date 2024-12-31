@@ -51,6 +51,18 @@ When I was a child, I promised myself that if I ever found even the slightest ch
 
 ### Other Tools:
 <div>
+    <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/csharp.svg" alt="git" width="40" height="40"/> 
+    </a>
+    
+    <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/dotnet.svg" alt="git" width="40" height="40"/> 
+    </a>
+    
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/mssql.svg" alt="git" width="40" height="40"/> 
+    </a>
+    
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/git.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -61,6 +73,11 @@ When I was a child, I promised myself that if I ever found even the slightest ch
         <img src="/assets/svg/tech/wordpress.svg" alt="wordpress" width="40" height="40"/> 
     </a>
 </div>
+
+## Currently working at:  
+    <a href="https://www.atresplayer.com/" target="_blank" rel="noreferrer"> 
+        <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="100" height="100"/> 
+    </a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doplax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
