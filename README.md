@@ -34,35 +34,28 @@ When I was a child, I promised myself that if I ever found even the slightest ch
 
 ### Back-end:
 <div>
+    <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/csharp.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/dotnet.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/mssql.svg" alt="git" width="40" height="40"/> 
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/node.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
     <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/linux.svg" alt="linux" width="40" height="40"/> 
     </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/python.svg" alt="python" width="40" height="40"/> 
-    </a> 
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/mongodb.svg" alt="MongoDB" width="40" height="40"/> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+       <img src="/assets/svg/tech/mongodb.svg" alt="MongoDB" width="40" height="40"/> 
     </a> 
 </div>
 
-
 ### Other Tools:
 <div>
-    <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/csharp.svg" alt="git" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/dotnet.svg" alt="git" width="40" height="40"/> 
-    </a>
-    
-    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/mssql.svg" alt="git" width="40" height="40"/> 
-    </a>
-    
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/git.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -75,9 +68,10 @@ When I was a child, I promised myself that if I ever found even the slightest ch
 </div>
 
 ## Currently working at:  
+<div>
     <a href="https://www.atresplayer.com/" target="_blank" rel="noreferrer"> 
         <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="100" height="100"/> 
     </a>
-
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doplax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
