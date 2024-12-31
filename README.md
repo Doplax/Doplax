@@ -1,12 +1,3 @@
-<img alt="header_img" width="100%" src="https://github.com/Doplax/Doplax/blob/main/img/paisaje_cabezera.gif?raw=true">
-
-# Description
-# **👋 Hi, I'm Pol**  
-### **A Full-Stack Developer Specialized in Angular and .NET**
-
-- 🔭 I’m currently working at A3media
-  
-
 ## About Me:  
 When I was a child, I promised myself that if I ever found even the slightest chance to study at the Hogwarts School of Witchcraft and Wizardry, I wouldn’t hesitate to take it. Today, I know that’s impossible (since, as a muggle, you’re probably aware that magic doesn’t exist). That’s why I ended up in the tech industry instead—it’s the closest thing we have to magic. With technology, we have the tools to change the world. ✨
 
