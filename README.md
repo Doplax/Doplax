@@ -70,7 +70,7 @@ When I was a child, I promised myself that if I ever found even the slightest ch
 ## Currently working at:  
 <div>
     <a href="https://www.atresplayer.com/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="100" height="100"/> 
+        <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="100" height="300"/> 
     </a>
 </div>
 
