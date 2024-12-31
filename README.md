@@ -3,6 +3,9 @@ When I was a child, I promised myself that if I ever found even the slightest ch
 
 ### Front-end:
 <div> 
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+        <img src="/assets/svg/tech/angular.svg" alt="Angular" width="40" height="40"/> 
+    </a>    
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/html.svg" alt="html5" width="40" height="40"/> 
     </a> 
@@ -15,9 +18,6 @@ When I was a child, I promised myself that if I ever found even the slightest ch
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/typescript.svg" alt="Typescript" width="40" height="40"/> 
     </a>
-        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/svg/tech/angular.svg" alt="Angular" width="40" height="40"/> 
-    </a>    
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
         <img src="/assets/svg/tech/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
@@ -67,11 +67,14 @@ When I was a child, I promised myself that if I ever found even the slightest ch
     </a>
 </div>
 
+
 ## Currently working at:  
 <div>
     <a href="https://www.atresplayer.com/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="100" height="300"/> 
+        <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="350" height="100"/> 
     </a>
 </div>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doplax&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
