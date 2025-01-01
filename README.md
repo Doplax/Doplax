@@ -70,12 +70,6 @@ With technology, we have the tools to change the world. ✨
 </div>
 
 
-## Currently working at:  
-<div>
-    <a href="https://www.atresmedia.com/" target="_blank" rel="noreferrer"> 
-        <img src="/assets/img/logos/Atresmedia.webp" alt="wordpress" width="350" height="100"/> 
-    </a>
-</div>
 
 
 
